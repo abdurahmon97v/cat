@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Treyder",
   description: "oyiga 10000$ topish sirlari",
   openGraph: {
-    images: ["/public/images/cat.jpg"],
+    images: "/images/cat.jpg",
   },
 };
 
